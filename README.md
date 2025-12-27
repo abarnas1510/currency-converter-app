@@ -12,4 +12,4 @@ The Currency converter is a Python-based application that converts an amount fro
 ## Output
 -Converted currency amount displayed to the user
 ## Screenshots
-![Output](Screenshots/currency-converter.png)
+![Output](Screenshot(7).png)![Output](Screenshot(8).png)
